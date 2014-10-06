@@ -4,7 +4,6 @@
     "barryvdh/laravel-ide-helper": "1.*"
 	},
     "require-dev": {
-    	"codeception/codeception": "~2.0"
         
     },
   	"autoload": {
